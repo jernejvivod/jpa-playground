@@ -25,3 +25,8 @@ hs_err_pid*
 # uncompressed database initialization folder
 db-init
 !db-init.zip
+
+# IntelliJ
+.idea/
+*.iml
+.DS_Store+
